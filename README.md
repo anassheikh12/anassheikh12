@@ -3,17 +3,8 @@
     <h1> Hi there, I'm Anas Sheikh👋<a href="https://hammad-air.github.io/hammad/"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/hammad-air"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
-	
-<!-- ## My WordPress Course 
-- [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
- -->
-	
-👨‍💻 AI Engineer CargoAI
-	
-💸 Help 80+ Clients via Generative AI & Automation
+<a href="https://github.com/hammad-air"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Chatbot+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
 
-📧 Book free 1v1 consultation https://linktr.ee/hammadbinnadeem
  
 <h2>Tech Stack</h2>
 
@@ -31,9 +22,6 @@
     </td>
  <td align='center' width="200">
         <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="100">
-    </td>
- <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
  
 </tr>
